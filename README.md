@@ -1,3 +1,4 @@
+# Portable Executable Crypter reasearch and Development
 
 For high-security, self-implemented software protection and distribution control (akin to CodeMeter but DIY), your technology choice depends on your *risk model*, target audience, and how much effort you want to invest in anti-tamper/anti-reversing. Here’s a practical breakdown:
 
